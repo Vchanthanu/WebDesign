@@ -1,0 +1,5 @@
+.bg-circle {
+    background-color: #20C0D6;
+    -moz-border-radius: 50%;
+    border-radius: 50%
+}
